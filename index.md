@@ -9,6 +9,7 @@ title: DSC 180A Methodology Assignment 4
 **Email:** jul187@ucsd.edu  
 **Section:** [D09]  
 **Mentor:** [Igor Sfiligoi, Nick Boechler]
+
 ---
 
 **1. What is the most interesting topic covered in your domain this quarter?**
